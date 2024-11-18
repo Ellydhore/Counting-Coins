@@ -1,0 +1,10 @@
+C:\Users\eg428\source\repos\Counting Coins\bin\Debug\Counting Coins.exe.config
+C:\Users\eg428\source\repos\Counting Coins\bin\Debug\Counting Coins.exe
+C:\Users\eg428\source\repos\Counting Coins\bin\Debug\Counting Coins.pdb
+C:\Users\eg428\source\repos\Counting Coins\obj\Debug\Counting Coins.csproj.AssemblyReference.cache
+C:\Users\eg428\source\repos\Counting Coins\obj\Debug\Counting_Coins.Form1.resources
+C:\Users\eg428\source\repos\Counting Coins\obj\Debug\Counting_Coins.Properties.Resources.resources
+C:\Users\eg428\source\repos\Counting Coins\obj\Debug\Counting Coins.csproj.GenerateResource.cache
+C:\Users\eg428\source\repos\Counting Coins\obj\Debug\Counting Coins.csproj.CoreCompileInputs.cache
+C:\Users\eg428\source\repos\Counting Coins\obj\Debug\Counting Coins.exe
+C:\Users\eg428\source\repos\Counting Coins\obj\Debug\Counting Coins.pdb
